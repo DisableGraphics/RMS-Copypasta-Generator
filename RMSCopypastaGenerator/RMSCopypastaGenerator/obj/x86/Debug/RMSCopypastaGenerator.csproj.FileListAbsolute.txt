@@ -1,0 +1,6 @@
+/home/disablegraphics/Projects/RMSCopypastaGenerator/RMSCopypastaGenerator/obj/x86/Debug/RMSCopypastaGenerator.csprojAssemblyReference.cache
+/home/disablegraphics/Projects/RMSCopypastaGenerator/RMSCopypastaGenerator/obj/x86/Debug/RMSCopypastaGenerator.csproj.CoreCompileInputs.cache
+/home/disablegraphics/Projects/RMSCopypastaGenerator/RMSCopypastaGenerator/bin/Debug/RMSCopypastaGenerator.exe
+/home/disablegraphics/Projects/RMSCopypastaGenerator/RMSCopypastaGenerator/bin/Debug/RMSCopypastaGenerator.pdb
+/home/disablegraphics/Projects/RMSCopypastaGenerator/RMSCopypastaGenerator/obj/x86/Debug/RMSCopypastaGenerator.exe
+/home/disablegraphics/Projects/RMSCopypastaGenerator/RMSCopypastaGenerator/obj/x86/Debug/RMSCopypastaGenerator.pdb
